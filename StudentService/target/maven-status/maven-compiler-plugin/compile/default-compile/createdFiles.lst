@@ -1,0 +1,4 @@
+pe\edu\pacagroup\laboratorio3_2\service\AlumnoService.class
+pe\edu\pacagroup\laboratorio3_2\dao\AlumnoDao.class
+pe\edu\pacagroup\laboratorio3_2\service\impl\AlumnoServiceImpl.class
+pe\edu\pacagroup\laboratorio3_2\dao\impl\AlumnoDaoImpl.class
